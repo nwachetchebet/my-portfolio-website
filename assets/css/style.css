@@ -811,6 +811,10 @@ img {
     padding: 0 3rem;
   }
 
+  .section__subtitle {
+    padding: 0 0.8rem;
+  }
+
   .portfolio__icons---div .button {
     font-size: 1rem;
     display: flex;
